@@ -20,6 +20,7 @@ namespace TaskTracker
     /// This should be the part that handles only the GUI and not the logic. 
     /// In the future i want it to show me the windows i opened and when.
     /// I want it to put a special place for the FOREGROUND window.
+    /// THIS IS CHANGE FOR THE REPOSETRY OF GIT!
     /// </summary>
     public partial class MainWindow : Window
     {

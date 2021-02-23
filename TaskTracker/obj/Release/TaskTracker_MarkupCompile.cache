@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-C:\Users\User\source\repos\TaskTracker\TaskTracker\obj\Debug\
+C:\Users\User\source\repos\TaskTracker\TaskTracker\obj\Release\
 TaskTracker
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\User\source\repos\TaskTracker\TaskTracker\App.xaml
 11151548125
 
-8-796412966
+745946401
 13-1505183044
 MainWindow.xaml;
 
