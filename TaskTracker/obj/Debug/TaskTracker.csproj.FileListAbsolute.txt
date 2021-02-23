@@ -1,0 +1,15 @@
+C:\Users\micha\source\repos\TaskTracker\TaskTracker\bin\Debug\TaskTracker.exe.config
+C:\Users\micha\source\repos\TaskTracker\TaskTracker\bin\Debug\TaskTracker.exe
+C:\Users\micha\source\repos\TaskTracker\TaskTracker\bin\Debug\TaskTracker.pdb
+C:\Users\micha\source\repos\TaskTracker\TaskTracker\obj\Debug\TaskTracker.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\TaskTracker\TaskTracker\obj\Debug\MainWindow.g.cs
+C:\Users\micha\source\repos\TaskTracker\TaskTracker\obj\Debug\App.g.cs
+C:\Users\micha\source\repos\TaskTracker\TaskTracker\obj\Debug\TaskTracker_MarkupCompile.cache
+C:\Users\micha\source\repos\TaskTracker\TaskTracker\obj\Debug\TaskTracker_MarkupCompile.lref
+C:\Users\micha\source\repos\TaskTracker\TaskTracker\obj\Debug\MainWindow.baml
+C:\Users\micha\source\repos\TaskTracker\TaskTracker\obj\Debug\TaskTracker.g.resources
+C:\Users\micha\source\repos\TaskTracker\TaskTracker\obj\Debug\TaskTracker.Properties.Resources.resources
+C:\Users\micha\source\repos\TaskTracker\TaskTracker\obj\Debug\TaskTracker.csproj.GenerateResource.cache
+C:\Users\micha\source\repos\TaskTracker\TaskTracker\obj\Debug\TaskTracker.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\TaskTracker\TaskTracker\obj\Debug\TaskTracker.exe
+C:\Users\micha\source\repos\TaskTracker\TaskTracker\obj\Debug\TaskTracker.pdb
